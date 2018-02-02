@@ -1,0 +1,19 @@
+PODS:
+  - LBXScan (1.1.1):
+    - ZXingObjC (~> 3.0)
+  - MBProgressHUD (0.9.2)
+  - ZXingObjC (3.1.0):
+    - ZXingObjC/All (= 3.1.0)
+  - ZXingObjC/All (3.1.0)
+
+DEPENDENCIES:
+  - LBXScan (~> 1.1.1)
+  - MBProgressHUD (~> 0.9.1)
+  - ZXingObjC (~> 3.0)
+
+SPEC CHECKSUMS:
+  LBXScan: dfb4d8ae8e4cff2aa0c9e1771e43954dce1469a9
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  ZXingObjC: bf15b3814f7a105b6d99f47da2333c93a063650a
+
+COCOAPODS: 0.39.0
